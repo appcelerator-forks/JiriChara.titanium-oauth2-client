@@ -1,5 +1,7 @@
 # titanium-oauth2-client
 
+### This project is ceased and it is probably not non-functional. Please try to find an alternative before you waste time with this OAuth2 client. I don't code in Titanium anymore and cannot provide any support.
+
 Oauth 2.0 Client Module for Titanium Appcelerator Applications
 
 **titanium-oauth2-client** makes it really easy to integrate oauth 2.0 client into your Titanium Appcelerator application. It was tested with [Doorkeeper](https://github.com/applicake/doorkeeper) - awesome oauth provider for your Rails app, but it is still in development state (so expect some things to be broken). **Every help by contributors is cheerfully welcome!**
