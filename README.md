@@ -1,6 +1,6 @@
 # titanium-oauth2-client
 
-### This project is ceased and it is probably non-functional. Please try to find an alternative before you waste time with this OAuth2 client. I don't code in Titanium anymore and cannot provide any support.
+### This project is ceased and it is probably non-functional. Please try to find an alternative before you waste time with this OAuth2 client. I don't code in Titanium anymore and cannot provide you any support.
 
 Oauth 2.0 Client Module for Titanium Appcelerator Applications
 
